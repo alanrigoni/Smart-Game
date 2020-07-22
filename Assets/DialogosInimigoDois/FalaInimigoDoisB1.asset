@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9002e064498dbe14a8bd612e654c804e, type: 3}
+  m_Name: FalaInimigoDoisB1
+  m_EditorClassIdentifier: 
+  falaInimigodois: 'George Booth: Quais os planetas do sistema solar?'
+  respostasinimigodois:
+  - respostainimigodois: "a) Terra, V\xEAnus, Saturno, Urano, J\xFApiter, Marte, Netuno,
+      Merc\xFArio"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 3fdeb990cac428345aadad51ff4b8056,
+      type: 2}
+  - respostainimigodois: "b) J\xFApiter, Marte, Merc\xFArio, Netuno, Plut\xE3o, Saturno,
+      Terra, Urano, V\xEAnus"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 505c3376b8cf2444586a7b3ff32469be,
+      type: 2}
+  - respostainimigodois: "c) V\xEAnus, Saturno, Urano, J\xFApiter, Marte, Netuno,
+      Merc\xFArio"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 505c3376b8cf2444586a7b3ff32469be,
+      type: 2}
+  - respostainimigodois: "d) J\xFApiter, Marte, Merc\xFArio, Netuno, Plut\xE3o, Saturno,
+      Sol, Terra, Urano, V\xEAnus"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 505c3376b8cf2444586a7b3ff32469be,
+      type: 2}
+  - respostainimigodois: <= Voltar para pergunta
+    ProximaFalainimigodois: {fileID: 11400000}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b837434c2e2073742b133ce47035665d, type: 3}
+  m_Name: DialogoInimigoTresFala1
+  m_EditorClassIdentifier: 
+  falaInimigotres: "Charles Harris: Poucos conseguem me responder corretamente, e
+    voc\xEA astrounauta, n\xE3o faz parte desses poucos."
+  respostasinimigotres:
+  - respostainimigotres: "Veremos ent\xE3o se voc\xEA \xE9 t\xE3o dif\xEDcil assim."
+    ProximaFalainimigotres: {fileID: 11400000, guid: f01501e6272331b4a871c2811760b937,
+      type: 2}

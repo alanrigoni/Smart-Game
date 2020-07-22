@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b2fce172a6c8c0428724ce6007d0499, type: 3}
+  m_Name: PerguntaInimigoCinco
+  m_EditorClassIdentifier: 
+  falaInimigocinco: "Richard Worley: Quem \xE9 Luiz Gabriel Tiago?"
+  respostasinimigocinco:
+  - respostainimigocinco: "a) Brasileiro indicado ao Pr\xEAmio Nobel da Paz 2018"
+    ProximaFalainimigocinco: {fileID: 11400000, guid: 864bdd0a0eae65948a08335d5fd85706,
+      type: 2}
+  - respostainimigocinco: "b) Militar e pol\xEDtico brasileiro"
+    ProximaFalainimigocinco: {fileID: 11400000, guid: 33ec05f3fa1736f4db2931fa998704cd,
+      type: 2}
+  - respostainimigocinco: "c) Escritor e poeta portugu\xEAs"
+    ProximaFalainimigocinco: {fileID: 11400000, guid: 33ec05f3fa1736f4db2931fa998704cd,
+      type: 2}
+  - respostainimigocinco: d) Nome verdadeiro de Luiz Gonzaga, o Gonzaguinha
+    ProximaFalainimigocinco: {fileID: 11400000, guid: 33ec05f3fa1736f4db2931fa998704cd,
+      type: 2}
+  - respostainimigocinco: <= Voltar para pergunta
+    ProximaFalainimigocinco: {fileID: 11400000}

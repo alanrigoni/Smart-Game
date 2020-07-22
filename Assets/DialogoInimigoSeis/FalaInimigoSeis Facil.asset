@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14b464d78f474b4980f257963257985, type: 3}
+  m_Name: FalaInimigoSeis Facil
+  m_EditorClassIdentifier: 
+  falaInimigoseis: "William Kidd: Hum... F\xE1cil \xE9? Vou dificultar para voc\xEA
+    ent\xE3o, vou fazer duas perguntas bem dif\xEDceis, se errar a primeira voc\xEA
+    volta para o come\xE7o da fase, se caso acertar a primeira e errar a segunda,
+    voc\xEA tamb\xE9m come\xE7a a fase novamente."
+  respostasinimigoseis:
+  - respostainimigoseis: "Manda as perguntas ent\xE3o"
+    ProximaFalainimigoseis: {fileID: 11400000, guid: 5badf698eaa8f484c8c3d58039898d1b,
+      type: 2}

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b39a0d0b5c1f2f54b921cba95ebaf881
+  - enabled: 1
+    path: Assets/Scenes/Instrucoes.unity
+    guid: 7436e5cf187b9a543b0defedc06990d0
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseUm.unity
+    guid: b142536eb0d627147ab263434075ed42
+  - enabled: 1
+    path: Assets/Scenes/FaseUm.unity
+    guid: daffceded23297447ba4c7c81bbf813d
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseDois.unity
+    guid: ef973151a49715c4cb240cf719683403
+  - enabled: 1
+    path: Assets/Scenes/FaseDois.unity
+    guid: 0cf3358ca4d8b2241bd5a93b4e73bc7a
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseTres.unity
+    guid: dd7303d6fb6ac6f4983cd3e2a65709db
+  - enabled: 1
+    path: Assets/Scenes/FaseTres.unity
+    guid: 6835dcaab79557d489c96a9978e3ed6c
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseQuatro.unity
+    guid: 64ff80717383e00419f8b19939029640
+  - enabled: 1
+    path: Assets/Scenes/FaseQuatro.unity
+    guid: f198527aa59976449bcb5a7c1a860e86
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseCinco.unity
+    guid: cb699d808d17af146b509c3b12576316
+  - enabled: 1
+    path: Assets/Scenes/FaseCinco.unity
+    guid: 424238ce61359e04bb0f06e27ced1491
+  - enabled: 1
+    path: Assets/Scenes/CarregarFaseSeis.unity
+    guid: bf783f078c5654d4b953aadc407c1f93
+  - enabled: 1
+    path: Assets/Scenes/FaseSeis.unity
+    guid: 17f3f4df39f8e5d41aef41938e548197
+  - enabled: 1
+    path: Assets/Scenes/CarregarCreditos.unity
+    guid: 27e5f4db0bcca9146a4b3ddf80b6fc05
+  m_configObjects: {}

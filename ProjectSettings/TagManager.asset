@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataformas
+  - Plantas
+  - Espinhos
+  - BlocoEspinhos
+  - Inimigos
+  - Cristais
+  - Start
+  - Portal
+  - Portal2
+  - Portal3
+  - Portal4
+  - Portal5
+  - Portal6
+  - Inimigo2
+  - Inimigo3
+  - Inimigo4
+  - Inimigo5
+  - Inimigo6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

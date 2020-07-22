@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14b464d78f474b4980f257963257985, type: 3}
+  m_Name: FalaInimigoSeis 1
+  m_EditorClassIdentifier: 
+  falaInimigoseis: "William Kidd: Ora ora ora... (Cospe no ch\xE3o) estava a sua espera
+    Astronauta. Como foi sua jornada at\xE9 aqui?"
+  respostasinimigoseis:
+  - respostainimigoseis: "Foi f\xE1cil!"
+    ProximaFalainimigoseis: {fileID: 11400000, guid: 4e82381d1a4745a48bdbe58aecd8c0fb,
+      type: 2}
+  - respostainimigoseis: "Foi Dif\xEDcil!"
+    ProximaFalainimigoseis: {fileID: 11400000, guid: fe8cc55d58f7dc14eb787642b68718df,
+      type: 2}

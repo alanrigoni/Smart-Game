@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb71b396f8169994d8b6238932cce55c, type: 3}
+  m_Name: PerguntaInimigoQuatro A
+  m_EditorClassIdentifier: 
+  falaInimigoquatro: "Francis Spriggs: Qual o nome do l\xEDder da Coreia do Norte?"
+  respostasinimigoquatro:
+  - respostainimigoquatro: a) Pak Pong-ju
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 7a39e7cbeb3e5424ca0a97a86f519349,
+      type: 2}
+  - respostainimigoquatro: b) Kim Jong-un
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 9c190321c9c8b5e4ca3b18509e2f9dc3,
+      type: 2}
+  - respostainimigoquatro: c) Kim Jong-Il
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 7a39e7cbeb3e5424ca0a97a86f519349,
+      type: 2}
+  - respostainimigoquatro: d) Moon Jae-in
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 7a39e7cbeb3e5424ca0a97a86f519349,
+      type: 2}
+  - respostainimigoquatro: <= Voltar para pergunta
+    ProximaFalainimigoquatro: {fileID: 11400000}

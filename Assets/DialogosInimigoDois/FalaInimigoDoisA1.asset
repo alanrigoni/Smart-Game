@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9002e064498dbe14a8bd612e654c804e, type: 3}
+  m_Name: FalaInimigoDoisA1
+  m_EditorClassIdentifier: 
+  falaInimigodois: "George Booth: Quais s\xE3o os tr\xEAs predadores do reino animal
+    reconhecidos pela habilidade de ca\xE7ar em grupo, se camuflar para surpreender
+    as presas e possuir sentidos apurados, respectivamente"
+  respostasinimigodois:
+  - respostainimigodois: "a) Tubar\xE3o branco, crocodilo e sucuri"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 108333dcedba5df40abe4d7cd3932bd0,
+      type: 2}
+  - respostainimigodois: "b) Tigre, gavi\xE3o e orca"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 108333dcedba5df40abe4d7cd3932bd0,
+      type: 2}
+  - respostainimigodois: c) Hiena, urso branco e lobo cinzento
+    ProximaFalainimigodois: {fileID: 11400000, guid: 066ad8f018020344fbf110e3356b22ba,
+      type: 2}
+  - respostainimigodois: "d) Orca, on\xE7a e tar\xE2ntula"
+    ProximaFalainimigodois: {fileID: 11400000, guid: 108333dcedba5df40abe4d7cd3932bd0,
+      type: 2}
+  - respostainimigodois: <= Voltar para pergunta
+    ProximaFalainimigodois: {fileID: 11400000}

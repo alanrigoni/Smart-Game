@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b837434c2e2073742b133ce47035665d, type: 3}
+  m_Name: DialogoInimigoTres 1
+  m_EditorClassIdentifier: 
+  falaInimigotres: "Charles Harris: Me responda ent\xE3o quanto tempo a luz do Sol
+    demora para chegar \xE0 Terra?"
+  respostasinimigotres:
+  - respostainimigotres: a) 12 minutos
+    ProximaFalainimigotres: {fileID: 11400000, guid: aed36746f37300a4f90d97e9a024388f,
+      type: 2}
+  - respostainimigotres: b) 1 dia
+    ProximaFalainimigotres: {fileID: 11400000, guid: aed36746f37300a4f90d97e9a024388f,
+      type: 2}
+  - respostainimigotres: c) 12 horas
+    ProximaFalainimigotres: {fileID: 11400000, guid: aed36746f37300a4f90d97e9a024388f,
+      type: 2}
+  - respostainimigotres: d) 8 minutos
+    ProximaFalainimigotres: {fileID: 11400000, guid: a8d5399b344d49b40b903846ef18f7dd,
+      type: 2}
+  - respostainimigotres: <= Voltar para pergunta
+    ProximaFalainimigotres: {fileID: 11400000}

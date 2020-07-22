@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb71b396f8169994d8b6238932cce55c, type: 3}
+  m_Name: PerguntaInimigoQuatro B
+  m_EditorClassIdentifier: 
+  falaInimigoquatro: "Francis Spriggs: HeHeHe vamos l\xE1 ent\xE3o... Quais as respectivas
+    cores da reciclagem do papel, do vidro, do metal e do pl\xE1stico?"
+  respostasinimigoquatro:
+  - respostainimigoquatro: a) azul, verde, amarelo e vermelho
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: b76a07beb20b63e4282fa4e383e5f534,
+      type: 2}
+  - respostainimigoquatro: b) verde, azul, vermelho e amarelo
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 43b4a0c5910a19e4aa2981b0d4adf642,
+      type: 2}
+  - respostainimigoquatro: c) vermelho, amarelo, verde e azul
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 43b4a0c5910a19e4aa2981b0d4adf642,
+      type: 2}
+  - respostainimigoquatro: d) azul, amarelo, verde e vermelho
+    ProximaFalainimigoquatro: {fileID: 11400000, guid: 43b4a0c5910a19e4aa2981b0d4adf642,
+      type: 2}
+  - respostainimigoquatro: <= Voltar para pergunta
+    ProximaFalainimigoquatro: {fileID: 11400000}

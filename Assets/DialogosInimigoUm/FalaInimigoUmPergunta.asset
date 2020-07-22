@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59f8e607340d45418ae2b5d14a27693, type: 3}
+  m_Name: FalaInimigoUmPergunta
+  m_EditorClassIdentifier: 
+  fala: "Thomas Anstis: Em que per\xEDodo da pr\xE9-hist\xF3ria o fogo foi descoberto?"
+  respostas:
+  - resposta: "a) Neol\xEDtico"
+    proximaFala: {fileID: 11400000, guid: ce57cdd7d0635fa4b9bb99cac6104e62, type: 2}
+  - resposta: "b) Paleol\xEDtico"
+    proximaFala: {fileID: 11400000, guid: 587ebb7e80e778f44964c04beff9d06c, type: 2}
+  - resposta: c) Idade dos Metais
+    proximaFala: {fileID: 11400000, guid: 789619040296e4c42bfd2788628e93cc, type: 2}
+  - resposta: "d) Per\xEDodo da Pedra Polida"
+    proximaFala: {fileID: 11400000, guid: 3629db593c667cd4d976400802fc9e2b, type: 2}
+  - resposta: <= Voltar para pergunta
+    proximaFala: {fileID: 11400000}

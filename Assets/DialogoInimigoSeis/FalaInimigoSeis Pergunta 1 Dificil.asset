@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14b464d78f474b4980f257963257985, type: 3}
+  m_Name: FalaInimigoSeis Pergunta 1 Dificil
+  m_EditorClassIdentifier: 
+  falaInimigoseis: "William Kidd: Um criador de galinhas tem caixas para armazenar
+    6 ovos e caixas para armazenar 12 ovos. Qual \xE9 o menor n\xFAmero de caixas
+    que ele precisa para armazenar 66 ovos?"
+  respostasinimigoseis:
+  - respostainimigoseis: a) 5
+    ProximaFalainimigoseis: {fileID: 11400000, guid: 848d6cdf4aa42f249b24598ee9197564,
+      type: 2}
+  - respostainimigoseis: b) 6
+    ProximaFalainimigoseis: {fileID: 11400000, guid: df27b301a60fa7f47831ec9a5e7445f0,
+      type: 2}
+  - respostainimigoseis: c) 9
+    ProximaFalainimigoseis: {fileID: 11400000, guid: 848d6cdf4aa42f249b24598ee9197564,
+      type: 2}
+  - respostainimigoseis: d)13
+    ProximaFalainimigoseis: {fileID: 11400000, guid: 848d6cdf4aa42f249b24598ee9197564,
+      type: 2}
+  - respostainimigoseis: <=Voltar para pergunta
+    ProximaFalainimigoseis: {fileID: 11400000}
